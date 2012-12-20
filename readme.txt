@@ -30,8 +30,8 @@ This is my first plugin and any feedback would be appreciated.
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Enter your Google Books id on the settings page (instructions on settings page).
 5. Place `<?php my_google_books_library(); ?>` in your templates
-* and/or add the widget 'My Google Books Library Widget' to the theme you are currently using
-* and/or place the schortcode [my_google_books_library shelf="4" max="10"] on any post or page.
+6. and/or add the widget 'My Google Books Library Widget' to the theme you are currently using
+7. and/or place the schortcode [my_google_books_library shelf="4" max="10"] on any post or page.
 
 == Frequently Asked Questions ==
 
