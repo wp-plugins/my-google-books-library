@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: hugmin42
 Donate link: none at the moment
-Tags: reading book, currently reading, my library, currently reading book, google books, currently reading, currently reading, simple currently reading book, books, ebooks, google, library, shelf, bookshelf, read
+Tags: reading book, currently reading, my library, currently reading book, google books, simple currently reading book, books, ebooks, google, library, shelf, bookshelf, read, books i've read, widget, plugin
 Requires at least: 3.0.1
 Tested up to: 3.5
 Stable tag: 1.0.1
@@ -54,12 +54,12 @@ The plugin's settings page aims to explain everything if not contact me at one o
 == Changelog ==
 
 = 1.0.1 =
-Fixed: Bug where shortcode appeared on top of page instead of where it was placed.
+* Fixed: Bug where shortcode appeared on top of page instead of where it was placed.
 
 = 1.0 =
 * The initial version of the plugin.
 
-== Changelog ==
+== Upgrade Notice ==
 
 = 1.0.1 =
 Fixes a bug where shortcode appears on top of page instead of where it was placed.
