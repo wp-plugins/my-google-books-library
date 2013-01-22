@@ -4,7 +4,7 @@ Donate link: http://hugo.activesquirrel.com/donate
 Tags: reading book, currently reading, my library, currently reading book, google books, simple currently reading book, books, ebooks, google, library, shelf, bookshelf, read, books i've read, widget, plugin
 Requires at least: 3.0.1
 Tested up to: 3.5
-Stable tag: 1.1
+Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
