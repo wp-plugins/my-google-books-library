@@ -4,7 +4,7 @@ Donate link: http://hugo.activesquirrel.com/donate
 Tags: reading book, currently reading, my library, currently reading book, google books, simple currently reading book, books, ebooks, google, library, shelf, bookshelf, read, books i've read, widget, plugin
 Requires at least: 3.0.1
 Tested up to: 3.5
-Stable tag: 1.0.1
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -67,7 +67,7 @@ Consider making a [donation](http://hugo.activesquirrel.com/donate "donation") t
 
 == Changelog ==
 
-= 1.1
+= 1.1 =
 * Added: New layout template: Grid view. Add layout="2" in your shortcode to make use of the new layout. E.g. [my_google_books_library shelf="4" max="10" layout="2"]
 * Added: Radomization - random books from your selected shelf will be shown with every refresh.
 
