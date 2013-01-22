@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: hugmin42
-Donate link: none at the moment
+Donate link: http://hugo.activesquirrel.com/donate
 Tags: reading book, currently reading, my library, currently reading book, google books, simple currently reading book, books, ebooks, google, library, shelf, bookshelf, read, books i've read, widget, plugin
 Requires at least: 3.0.1
 Tested up to: 3.5
