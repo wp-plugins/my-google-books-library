@@ -14,7 +14,7 @@ A simple plugin with a widget and [shortcode] that displays any number of your G
 
 This is a simple wordpress plugin that allows you to showcase your Google Books bookshelves. It uses the Google Books API, and can show any of the default shelves: Reading Now, Favorites, Have Read or To Read as well as custom shelves. You can also choose the maximum number of books that you want to display.
 
-I used some of the code from ZeroCool51's ([Bostjan Cigan](http://bostjan.gets-it.net "Bostjan Cigan")) plugin [Currently Reading Book](http://wordpress.org/extend/plugins/currently-reading-book/ "Currently Reading Book") for the admin area and [aharris88](http://adamwadeharris.com "aharris88")'s plugin [Google Bookshelves](http://wordpress.org/extend/plugins/google-bookshelves/ "Google Bookshelves") for the widget. 
+I used some of the code from ZeroCool51's ([Bostjan Cigan](http://bostjan.gets-it.net "Bostjan Cigan")) plugin [Currently Reading Book](http://wordpress.org/extend/plugins/currently-reading-book/ "Currently Reading Book") for the admin area and [aharris88](http://adamwadeharris.com "aharris88")'s plugin [Google Bookshelves](http://wordpress.org/extend/plugins/google-bookshelves/ "Google Bookshelves") for the widget. Special thanks to [Vadym](http://v.bartko.info "Vadym") for his code to fix the max 40 books problem.
 
 What this plugin offers:
 
