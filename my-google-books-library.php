@@ -4,7 +4,7 @@
 Plugin Name: My Google Books Library
 Plugin URI: http://hugo.activesquirrel.com/dev/my-google-books-library
 Description: A simple plugin that displays any number of your Google Books bookshelves including custom bookshelves. This plugin also has a widget and [shortcode] functionality.
-Version: 1.0
+Version: 1.1
 Author: Hugo Minnaar
 Author URI: http://hugo.activesquirrel.com
 License: GPL v2
